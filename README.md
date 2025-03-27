@@ -35,7 +35,7 @@ This repository is structured to cover every aspect of threat hunting, from fund
 - Contribute: Have insights or new hunting techniques? Feel free to contribute!
 
 # Contributions
-We welcome contributions! If you have hunting queries, tools, methodologies, or case studies to share, check out our Contributing Guidelines (coming soon).
+I welcome contributions! If you have hunting queries, tools, methodologies, or case studies to share, check out our Contributing Guidelines (coming soon).
 
 # Stay Updated
 Cyber threats evolve daily. Follow this repository to stay ahead with the latest threat hunting techniques, playbooks, and case studies.
