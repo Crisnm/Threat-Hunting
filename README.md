@@ -28,11 +28,11 @@ This repository is structured to cover every aspect of threat hunting, from fund
 📁 Miscellaneous – Helpful resources like cheat sheets, community links, and additional tools.
 
 # How to Use This Repository
->Learn: If you're new, start with Threat Hunting Fundamentals.
->Research: Use the Case Studies and Threat Feeds sections to track real-world threats.
->Implement: Follow the Threat Hunting Playbooks for hands-on investigations.
->Automate: Explore AI & Machine Learning to enhance detection capabilities.
->Contribute: Have insights or new hunting techniques? Feel free to contribute!
+*Learn: If you're new, start with Threat Hunting Fundamentals.
+*Research: Use the Case Studies and Threat Feeds sections to track real-world threats.
+*Implement: Follow the Threat Hunting Playbooks for hands-on investigations.
+*Automate: Explore AI & Machine Learning to enhance detection capabilities.
+*Contribute: Have insights or new hunting techniques? Feel free to contribute!
 
 # Contributions
 We welcome contributions! If you have hunting queries, tools, methodologies, or case studies to share, check out our Contributing Guidelines (coming soon).
